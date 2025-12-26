@@ -1,0 +1,146 @@
+final Map<String, String> enUS = {
+  'Email or Phone': 'Email or Phone',
+  'Enter Your Email or Phone': 'Enter Your Email or Phone',
+  'Password': 'Password',
+  'Enter Your Password': 'Enter Your Password',
+  'Forgot Password?': 'Forgot Password?',
+  'Log in': 'Log in',
+  'Don’t have an account?': 'Don’t have an account?',
+  'Signup': 'Signup',
+  'Name': 'Name',
+  'Enter Your Name': 'Enter Your Name',
+  'Already have an account?': 'Already have an account?',
+  'Login': 'Login',
+
+  'Never get left on read': 'Never get left on read',
+  'Say the right thing, every time': 'Say the right thing, every time',
+  'Read the room like a pro': 'Read the room like a pro',
+  'Tap "Get Started" to agree to our Terms and \nPrivacy Policy.': 'Tap "Get Started" to agree to our Terms and \nPrivacy Policy.',
+  'Im in!': 'Im in!',
+
+  'Help me reply ✨': 'Help me reply ✨',
+  'Get the perfect response, instantly.': 'Get the perfect response, instantly.',
+  'Breaking the ice 👋': 'Breaking the ice 👋',
+  'Slide in smooth, no awkward openers.': 'Slide in smooth, no awkward openers.',
+  'Read the vibe check 🧠': 'Read the vibe check 🧠',
+  'Know if she\'s feeling it or just being nice.': 'Know if she\'s feeling it or just being nice.',
+  'What are we working on? 💬': 'What are we working on? 💬',
+  'Let\'s go ⭐': 'Let\'s go ⭐',
+
+  'Bold energy 💬': 'Bold energy 💬',
+  'When you want your message to land strong.': 'When you want your message to land strong.',
+  'Confidence in every word ✨': 'Confidence in every word ✨',
+  'Express yourself with boldness and ease.': 'Express yourself with boldness and ease.',
+  'Fun vibes only 💋': 'Fun vibes only 💋',
+  'Make every message feel easy and engaging.': 'Make every message feel easy and engaging.',
+  'Soft but strong 🎯': 'Soft but strong 🎯',
+  'Because kindness always connects': 'Because kindness always connects',
+  'Flirty vibes 🔥': 'Flirty vibes 🔥',
+  'Add a playful spark and catch their attention.': 'Add a playful spark and catch their attention.',
+  'What\'s the vibe? 💬': 'What\'s the vibe? 💬',
+  'Lock it in ✨': 'Lock it in ✨',
+
+  'Got a referral?': 'Got a referral?',
+  'Enter referral code': 'Enter referral code',
+  'I got a referral 🚀': 'I got a referral 🚀',
+  'Oops! Can’t find that user 😅': 'Oops! Can’t find that user 😅',
+  'Retry 💡': 'Retry 💡',
+  'Ok': 'Ok',
+  'Skip': 'Skip',
+
+  'Keep your streak 🔥': 'Keep your streak 🔥',
+  'Wing-man\'s got you 🔔': 'Wing-man\'s got you 🔔',
+  'Got it! 🔔': 'Got it! 🔔',
+  'That outfit is giving main character energy ☀️. She looks incredible!': 'That outfit is giving main character energy ☀️. She looks incredible!',
+  'Her smile is unreal 💪. Compliment it without being cringe.': 'Her smile is unreal 💪. Compliment it without being cringe.',
+  'She\'s making time for you ❤️. Keep the energy matching hers!': 'She\'s making time for you ❤️. Keep the energy matching hers!',
+  'Wizzy': 'Wizzy',
+
+
+  'trial_not_now': 'Not Now',
+  'trial_title': 'Level up your Rizz Game',
+  'trial_subtitle': 'Stop overthinking. Start connecting 😎',
+  'trial_free_info': 'Try it free, cancel anytime',
+  'trial_start_button': 'Start my free trial✨',
+  'trial_price_info1': 'After 7 days, just \$3.99/week. Cancel anytime, no BS.',
+  'trial_price_info2': 'To stop renewal, cancel anytime in your Google Play Settings.',
+
+  'Processing...': 'Processing...',
+  'Pay' : 'Pay',
+  'Email': 'Email',
+  'Country or region' : 'Country or region',
+  'ZIP' :'ZIP',
+  'Cardholder name' :'Cardholder name',
+  'Full name on card' : 'Full name on card',
+  'Card information' : 'Card information',
+
+
+  'Select Option' : 'Select Option',
+  'Start typing...' : 'Start typing...',
+  'Reply with confidence 💬' :'Reply with confidence 💬',
+  'Instant replies that actually sound like you 💡': 'Instant replies that actually sound like you 💡',
+  'Add screenshot to analyze chat':'Add screenshot to analyze chat',
+  'Break the ice smooth 🔥':'Break the ice smooth 🔥',
+  'Perfect openers based on her profile. No more \'hey\' texts.':'Perfect openers based on her profile. No more \'hey\' texts.',
+  'Handle the curveballs 🔥':'Handle the curveballs 🔥',
+  'She said something weird? We\'ll help you recover like a pro.':'She said something weird? We\'ll help you recover like a pro.',
+  'Save yourself from the awkward 💡':'Save yourself from the awkward 💡',
+  'Screenshot the chat. We\'ll tell you exactly what to say.':'Screenshot the chat. We\'ll tell you exactly what to say.',
+
+
+  "More Stuff":"More Stuff",
+  '7 days FREE unlimited!': '7 days FREE unlimited!',
+  'Join discord': 'Join discord',
+  'Contact us': 'Contact us',
+  'Rate us': 'Rate us',
+
+
+  'Type your message...':'Type your message...',
+  'Set the mood':'Set the mood',
+  'Personalize (million user)':'Personalize (million user)',
+  'Add photo':'Add photo',
+  'Abracadabra!':'Abracadabra!',
+  "Personalize":"Personalize",
+  'Tell me everything you want me to consider':'Tell me everything you want me to consider',
+  'Tired of texting? Take the conversation to dinner.':'Tired of texting? Take the conversation to dinner.',
+  'Cute pickup lines✨':'Cute pickup lines✨',
+  'Step 1: Pick a topic below':'Step 1: Pick a topic below',
+  'Step 2: Hit Make Magic\nHappen':'Step 2: Hit Make Magic\nHappen',
+
+  'Confident':'Confident',
+  'Casual':'Casual',
+  'Friendly':'Friendly',
+  'Professional':'Professional',
+  'Write something...':'Write something...',
+  'Add context':'Add context',
+  'Personalize Your Reply':'Personalize Your Reply',
+  'Reminder: Check that the last message in the conversation is from your contact.':'Reminder: Check that the last message in the conversation is from your contact.',
+  'Write back':'Write back',
+
+  'Their message': 'Their message',
+  'Could you help me?':'Could you help me?',
+  'I have a question about your product.':'I have a question about your product.',
+  'Hello, how may I help you?':'Hello, how may I help you?',
+  'Agent Lucy has joined the chat.':'Agent Lucy has joined the chat.',
+  'Direct message':'Direct message',
+
+
+
+  "Reset Password":"Reset Password",
+  'Confirm Password':'Confirm Password',
+  'Enter your confirm password':'Enter your confirm password',
+  'Reset password':'Reset password',
+
+
+
+  "Verify Email or Phone":"Verify Email or Phone",
+  "Enter your email or phone number to reset password":"Enter your email or phone number to reset password",
+  'Next':'Next',
+
+
+  "Verify OTP":"Verify OTP",
+  "Enter the 4 digit code we have sent to reset your password":"Enter the 4 digit code we have sent to reset your password",
+  'Verify Code':'Verify Code',
+
+
+};
