@@ -1,4 +1,4 @@
-# Social AI Wizard 🧙‍♂️
+# Ai Chat Bot🧙‍♂️
 
 A Flutter-based social skills enhancement application that helps users improve their conversation abilities using AI-powered features.
 
